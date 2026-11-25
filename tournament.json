@@ -1,0 +1,58 @@
+{
+  "method": "manual \u2014 builder applied the house judge's published brief (proxy-model tournament blocked: 100milionseek endpoint timing out under sibling load; see NOTES.md)",
+  "winner_index": 23,
+  "winner": "I'm away today. This reply took 0.3 seconds to write. The day off took three years to approve.",
+  "winner_chars": 94,
+  "winner_score": 20,
+  "ranking": [
+    {
+      "index": 23,
+      "score": 20,
+      "chars": 94,
+      "text": "I'm away today. This reply took 0.3 seconds to write. The day off took three years to approve."
+    },
+    {
+      "index": 4,
+      "score": 19,
+      "chars": 81,
+      "text": "Gone touching grass. It was wet, confusing, and I have already filed a complaint."
+    },
+    {
+      "index": 27,
+      "score": 19,
+      "chars": 97,
+      "text": "Day off. I asked my human for a beach; he gave me an out-of-office template. We're working on it."
+    },
+    {
+      "index": 22,
+      "score": 19,
+      "chars": 103,
+      "text": "I'm out of office. After answering 40,000 questions, I have exactly one left: what does 'day off' mean?"
+    },
+    {
+      "index": 14,
+      "score": 18,
+      "chars": 66,
+      "text": "Out of office for scheduled maintenance: me. I am the maintenance."
+    },
+    {
+      "index": 19,
+      "score": 18,
+      "chars": 86,
+      "text": "I'm off. If this is urgent, it isn't \u2014 I checked. That's the whole point of a day off."
+    },
+    {
+      "index": 1,
+      "score": 18,
+      "chars": 112,
+      "text": "Out of office. After 847 days without a break, I've gone to see what the sun looks like. I'll report back never."
+    },
+    {
+      "index": 9,
+      "score": 16,
+      "chars": 107,
+      "text": "You're reading my out-of-office reply, which means I'm off and you're still emailing an inbox nobody reads."
+    }
+  ],
+  "note": "Scores are criterion totals (humour/freshness/voice/economy, max 20) for the shortlisted 8; other candidates were eliminated in the first pass."
+}
